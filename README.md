@@ -5,7 +5,7 @@
 
 📍 Pune, India
 📧 [radhika.22310794@viit.ac.in](mailto:radhika.22310794@viit.ac.in)
-🔗 [LinkedIn](https://www.linkedin.com/in/radhika-jahindra-thale-33b86328/)
+🔗 [LinkedIn](linkedin.com/in/radhika-jahindra-thale-33b86328)
 
 ---
 
