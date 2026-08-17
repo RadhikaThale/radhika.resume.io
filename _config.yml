@@ -1,0 +1,5 @@
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: [Radhika]
+description: [A professional portfolio and resume website showcasing Radhika Thale’s education, technical skills, projects, achievements, certifications, and leadership experience, with a focus on Computer Engineering, Data Analytics, AI, and Web Development.]
