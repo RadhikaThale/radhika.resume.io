@@ -5,7 +5,7 @@
 
 📍 Pune, India
 📧 [radhika.22310794@viit.ac.in](mailto:radhika.22310794@viit.ac.in)
-🔗 [LinkedIn](linkedin.com/in/radhika-jahindra-thale-33b86328)
+🔗 [LinkedIn](https://www.linkedin.com/in/radhika-jahindra-thale-33b86328a?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
 
@@ -181,7 +181,7 @@ I enjoy building practical technology solutions, working with data, designing us
 
 📞 **Phone:** +91 9049090427
 
-🔗 **LinkedIn:** [linkedin.com/in/radhika-jahindra-thale-33b86328](https://www.linkedin.com/in/radhika-jahindra-thale-33b86328/)
+🔗 **LinkedIn:** [linkedin.com/in/radhika-jahindra-thale-33b86328](https://www.linkedin.com/in/radhika-jahindra-thale-33b86328a?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 <hr>
 
